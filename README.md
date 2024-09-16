@@ -1,16 +1,18 @@
-### Hi there 👋
+# Hi there 👋 Good to see you! 
 
-<!--
-**KsymenaPoradzisz/KsymenaPoradzisz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Theoretical physicist in the making, but with a passion for computer science.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# What do I know?
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/julia/julia-original.svg" alt="Julia Icon" width="50" height="50"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original-wordmark.svg" alt="HTML5 Icon" width="50" height="50"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-plain.svg"  alt="HTML5 Icon" width="50" height="50">  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"  alt="HTML5 Icon" width="50" height="50"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg"  alt="HTML5 Icon" width="50" height="50"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/haskell/haskell-original.svg"  alt="HTML5 Icon" width="50" height="50">  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg"  alt="HTML5 Icon" width="50" height="50"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/latex/latex-original.svg"  alt="HTML5 Icon" width="50" height="50">  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg"  alt="HTML5 Icon" width="50" height="50"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/premierepro/premierepro-original.svg"  alt="HTML5 Icon" width="50" height="50"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="HTML5 Icon" width="50" height="50">
+          
+          
+          
+          
+
+
+
+          
+          
+          
+          
