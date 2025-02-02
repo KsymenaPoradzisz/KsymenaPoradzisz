@@ -1,6 +1,6 @@
 # Hi there 👋 Good to see you! 
 
-## Theoretical physicist in the making, but with a passion for computer science.
+## Theoretical physicist, but with a passion for computer science.
 
 Now on my GitHub you can find the following repos:
 - **AccretionCurrentsJulia** - a program which allows to visualise accretion currents around Schwarzschild black hole (In future: also around Kerr black hole) - made for my Master's thesis :)
